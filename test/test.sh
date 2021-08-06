@@ -1,0 +1,1 @@
+sh ../read.sh 
